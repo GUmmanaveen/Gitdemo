@@ -36,7 +36,7 @@ System.out.println("Child class constructor");
 public static void main(String[] args)
 {
 Child c=new Child();
-System.out.println("Child class main method");
+System.out.println("Child class kjgdfhgiydfguyfhdafugefaJM main method");
 }
 public void methodTwo()
 {
